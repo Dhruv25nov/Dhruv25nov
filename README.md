@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruv Maheshwari
 - 👀 I’m interested in learning new exciting things each day
-- 🌱 I’m currently learning DSA , Django and MERN stack
+- 🌱 I’m currently learning DSA , Python, DataScience and MERN stack
 - 💞️ I’m looking to collaborate on anything exciting.
 - 📫 Reach me @ dhruv25nov@gmail.com
 
